@@ -1,0 +1,8 @@
+{
+  "name": "elm-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/k3nt0w/elm-sandbox.git",
+  "author": "k3nt0w <k3nt0.watanabe@gmail.com>",
+  "license": "MIT"
+}
